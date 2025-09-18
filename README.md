@@ -155,5 +155,4 @@ Dockerfile
 * Default DB config can be changed in `application.yml` / env variables.
 * Future improvements: pagination/sorting, unit/integration tests, docker-compose, CI.
 
-```
 
